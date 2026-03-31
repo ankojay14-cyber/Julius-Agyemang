@@ -2,12 +2,12 @@
 
 <p align="center">
   🔐 Senior Cybersecurity GRC Specialist
+  
 </p>
-
 <p align="center">
   I don’t just manage compliance. I build security programs that scale.
+  
 </p>
-
 <p align="center">
   🧠 Cybersecurity Compliance | TPRM | Cloud Security | AI Governance
 </p>
@@ -31,22 +31,6 @@
 Cybersecurity risk and compliance professional with 8+ years of experience driving enterprise risk reduction, regulatory compliance, and security governance across healthcare, pharmaceutical, and federal environments.
 
 I specialize in translating complex regulatory frameworks into **practical, scalable security programs** across compliance, vendor risk, cloud, and AI systems.
-
----
-
-## 🧭 Core Focus Areas
-
-- 🛡️ **Cybersecurity Compliance**  
-  (HIPAA, ISO 27001, SOC 2, NIST, CMMC, FedRAMP)
-
-- 🤝 **Third-Party Risk Management (TPRM)**  
-  Vendor due diligence, risk tiering, continuous monitoring, SOC report analysis
-
-- ☁️ **Cloud Security (AWS & Azure)**  
-  IAM, encryption, logging, architecture risk assessments, Zero Trust
-
-- 🧠 **AI Governance & Risk**  
-  AI risk assessments, model governance, NIST AI RMF, ISO 42001 alignment
 
 ---
 
