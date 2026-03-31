@@ -1,6 +1,32 @@
-# 👋 Hi, I’m Julius Agyemang
+<h1 align="center">Julius Agyemang</h1>
 
-## 🔐 Senior Cybersecurity GRC Specialist | Cybersecurity Compliance | TPRM | Cloud Security | AI Governance
+<p align="center">
+  🔐 Senior Cybersecurity GRC Specialist
+</p>
+
+<p align="center">
+  I don’t just manage compliance. I build security programs that scale.
+</p>
+
+<p align="center">
+  🧠 Cybersecurity Compliance | TPRM | Cloud Security | AI Governance
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-green"/>
+  <img src="https://img.shields.io/badge/Focus-GRC%20%7C%20Cloud%20%7C%20AI-blue"/>
+  <img src="https://img.shields.io/badge/Frameworks-HIPAA%20%7C%20ISO%2027001%20%7C%20NIST-orange"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+</p>
 
 Cybersecurity risk and compliance professional with 8+ years of experience driving enterprise risk reduction, regulatory compliance, and security governance across healthcare, pharmaceutical, and federal environments.
 
